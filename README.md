@@ -1,7 +1,6 @@
 # Improved-Home-Electrcity-Forecasting-Streamlit
 
-#Summary:L
-
+#Summary:
 This project implements ARIMA model for time series forecasting and frontend of this project is made using streamlit.
 
 #Pre-requisites for running this project
