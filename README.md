@@ -1,7 +1,7 @@
 # Improved-Home-Electrcity-Forecasting-Streamlit
 
 #Summary:
-This project implements ARIMA model for time series forecasting and frontend of this project is made using streamlit.
+This project implements Autoregressive model for time series forecasting and frontend of this project is made using streamlit.
 
 #Pre-requisites for running this project
 1. You need to install python3.x.
