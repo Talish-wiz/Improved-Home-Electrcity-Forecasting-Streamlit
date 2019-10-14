@@ -15,4 +15,4 @@ This project implements ARIMA model for time series forecasting and frontend of 
 3. Your default browser will open running project.
 4. If 404 Error occurs then edit url to '/index.html/'. (This error occurs due to a bug in streamlit which might occur)
 
-#setup.sh and procfile will be required while deploying this on heroku/azure etc.
+#setup.sh and procfile will be required while deploying this on heroku.
